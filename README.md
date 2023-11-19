@@ -1,9 +1,9 @@
 </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL">
+  <a href="https://wa.me/message/7R6WAQBEDSUJJ1">
     <img alt=Support height="400" src="https://telegra.ph/file/be4fad9b026c96936cbfe.jpg"> 
     </p>
-<h1 align="center"> 𝙸𝚉𝚄𝙺𝚄-𝙼𝙳 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 𝙱𝙾𝚃
+<h1 align="center"> ʜᴜᴛᴍᴀɴ 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 𝙱𝙾𝚃
 </h1>
 <p align="center"> 
  ! ᴵ ᴬᵐ ᴬ ᵂʰᵃᵗˢᵃᵖᵖ ᴮᵒᵗ ᶜʳᵉᵃᵗᵉᵈ ᴮʸ ˢᵃᵐ ᵖᵃⁿᵈᵉʸ ᵃⁿᵈ ʳᵉᶜᵒᵈᵉᵈ ᵇʸ ᴱˣᶜᴱᴸ  ᵀᵒ ᴰᵒ ᴱᵛᵉʳʸᵗʰⁱⁿᵍ ᵀʰᵃᵗ ᴵˢ ᴾᵒˢˢⁱᵇˡᵉ ᴼⁿ ᵂʰᵃᵗˢᴬᵖᵖ ᴮᵃˢᵉᵈ ᴼⁿ ᵂʰᵃᵗˢᴬᵖᵖ ᴹᵘˡᵗⁱ ᴰᵉᵛⁱᶜᵉ⁽ᴹᴰ⁾ ˢᵘᵖᵖᵒʳᵗ.
@@ -25,7 +25,7 @@
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{excelottah6}/count.svg" alt="excelottah6 :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL" target="_blank">
+ <a href="https://wa.me/message/7R6WAQBEDSUJJ1" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ IZUKU Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
   </a>
 </p>
