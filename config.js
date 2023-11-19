@@ -10,8 +10,8 @@ global.email = 'giftchukwuma124@gmail.com'
 global.github = 'https://github.com/excelottah6/IZUKU-MD'
 global.location = 'Owerri Nigeria'
 global.gurl = 'https://wa.me/message/7R6WAQBEDSUJJ1' // add your username
-global.sudo = process.env.SUDO || '2347039570336,923466319114'
-global.devs = '2347039570336';
+global.sudo = process.env.SUDO || '2348152014219'
+global.devs = '2348152014219';
 global.website = '//wa.me/2348152014219' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://imgur.com/a/7Dooxbk.jpeg'
 module.exports = {
@@ -22,7 +22,7 @@ module.exports = {
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
   packname:  process.env.PACK_INFO.split(";")[1] === undefined ? '𖣔︎ᡶꫀꪹꪑỉ᭢ꪖᡶꪮꪹ 404𖣔︎' : process.env.PACK_INFO.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
-  antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'fuck you, fuck, idiot, fool, bastard, dickhead, dope, git, jerk, scumbag, ass hole, piece of shit, ashewo, ewu, bitch, dick, dickhead, vagina, foolish, stupid, penis, porn, gay, sex' : process.env.ANTI_BAD_WORD,
+  antibadword :  process.env.ANTI_BAD_WORD === undefined ? '' : process.env.ANTI_BAD_WORD,
   alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? true : process.env.ALWAYS_ONLINE,
   antifake : process.env.FAKE_COUNTRY_CODE === undefined ? '971' : process.env.FAKE_COUNTRY_CODE,
   readmessage:  process.env.READ_MESSAGE === undefined ? true : process.env.READ_MESSAGE,
