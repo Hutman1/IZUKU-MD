@@ -1,7 +1,7 @@
 {
-  "name": "𝗛𝗨𝗧𝗠𝗔𝗡 ",
-  "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg",
+  "name": "𝗛𝗨𝗧𝗠𝗔𝗡",
+  "description": "𝗧𝗵𝗲 𝗛𝘂𝘁𝗺𝗮𝗻 𝗚𝗿𝗼𝘂𝗽 🏢 Whatsapp Security System: 🤖 𖣔︎𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗧𝗢𝗥 404𖣔︎ built in 𝗡𝗼𝗱𝗲𝗝𝘀 💻, to make the experience better 🌟\n\t Modding App by 𝗚𝗲𝗻𝗶𝘂𝘀 𝗛𝘂𝘁𝗺𝗮𝗻!彡📱💥: Affordable Android app modding to transform into premium versions 😍. DM to discuss and make your request✉️ : https://wa.me/message/7R6WAQBEDSUJJ1",
+  "logo": "https://imgur.com/a/7Dooxbk.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "IzukuBot", "Secktor","IZUKUMD","theme bot","multi device","baileys","excel"],
   "success_url": "/",
   "stack": "container",
@@ -36,17 +36,17 @@
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
-     "required" :true
+     "required" :false
     },
    "ANTILINK_VALUES": {
     "description": "Put words for antilink",
      "value": "chat.whatsapp.com,fb.com,instagram.com",
-     "required" :false
+     "required" :true
     },
      "ANTILINK_ACTION": {
     "description": "Put action for antilink",
      "value": "remove",
-     "required" :false
+     "required" :true
     },
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat.",
@@ -55,11 +55,11 @@
     },
     "SUDO": {
     "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:2347039570336",
-     "required"  :false
+     "required"  :true
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
-     "required" :false,
+     "required" :true,
      "value": "true"
     },
    "DISABLE_PM": {
@@ -68,7 +68,7 @@
     },
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
-      "value": "null"
+      "value": "'"
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
@@ -79,16 +79,16 @@
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
-       "value": "Replace Me(optional)",
-       "required" :false
+       "value": "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",
+       "required" :true
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb://uufpxy0mfyeykbrxkjpk:m1b0dsDODVFWlBy3AF3@bufirembtiksxw6ni25m-mongodb.services.clever-cloud.com:2533/bufirembtiksxw6ni25m"
+    "value": "mongodb+srv://Gift:giftograft1@cluster0.pzv0tyl.mongodb.net/?retryWrites=true&w=majorityt"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are IZUKU,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "IZUKU"
+     "value": "HUTMAN"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -102,7 +102,7 @@
   "PACK_INFO": {
     "description": "Put packname;authorname.",
      "value": "ʰᵘᵗᵐᵃⁿ",
-     "required": false 
+     "required": true 
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
